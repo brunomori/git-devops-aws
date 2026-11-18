@@ -1,0 +1,14 @@
+# Editor artifacts
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Local credentials and generated state
+.env
+.aws/
+*.pem
+*.key
+.terraform/
+*.tfstate
+*.tfstate.*
